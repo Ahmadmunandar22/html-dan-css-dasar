@@ -1,0 +1,29 @@
+
+#tabel-siswa {
+    border-collapse: collapse;
+    background-image: url(pemandangan.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+
+    margin: auto;
+}
+.link {
+    color:red;
+    text-decoration: none;
+}
+body {
+    font-family:cursive; color: white;
+    
+    background:dimgray;
+}
+#tabel-siswa h3 {
+    font-size:32px;
+    font-family:segoe ui;
+}
+#tabel-siswa td {
+    padding: 20px;
+}
